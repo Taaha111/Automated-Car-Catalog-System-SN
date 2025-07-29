@@ -6,7 +6,7 @@ This project is developed on the ServiceNow platform to streamline car booking a
 
 
 ## 📄 Full Project Report
-[📄 Click to Download Full Report (PDF)](./Automated%20CCS.pdf)
+[📄 Click to Download Full Report (PDF)](https://github.com/Taaha111/Automated-Car-Catalog-System-SN/blob/64ed3cb64df14d32f4cd4409c1433d3119707531/project%20file%20ACSS.pdf)
 
 
 ## 📸 Screenshots
